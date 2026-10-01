@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <rect width="100" height="100" rx="22" fill="#131B52"/>
+  <circle cx="50" cy="50" r="38" stroke="#D8AA55" stroke-width="2.5" fill="none"/>
+  <!-- Sofnest Cotton Fluff Vector Symbol -->
+  <path d="M 50 32 C 43 32 38 37 38 43 C 34 44 32 48 32 52 C 32 58 37 62 43 62 C 45 62 48 61 50 60 C 52 61 55 62 57 62 C 63 62 68 58 68 52 C 68 48 66 44 62 43 C 62 37 57 32 50 32 Z" 
+        fill="none" stroke="#D8AA55" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 46 62 L 40 74 M 54 62 L 60 74 M 50 62 L 50 76" 
+        stroke="#D8AA55" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

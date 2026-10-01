@@ -1,0 +1,6 @@
+# Robots.txt for Sofnest (https://sofnest.in)
+User-agent: *
+Allow: /
+
+# Sitemap Location
+Sitemap: https://sofnest.in/sitemap.xml
